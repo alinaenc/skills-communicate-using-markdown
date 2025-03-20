@@ -3,6 +3,6 @@
 ### smecherie
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-var myVar = "Hello, world!";
 #### alt exemplu de header
+var myVar = "Hello, world!";
+
