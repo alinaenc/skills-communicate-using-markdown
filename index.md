@@ -3,6 +3,8 @@
 ### smecherie
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-#### alt exemplu de header
-var myVar = "Hello, world!";
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
